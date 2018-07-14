@@ -6,9 +6,9 @@
 
 Hola este es un *párrafo* **dos párrafos**
 
-*uno
-*dos
-*tres
+* uno
+* dos
+* tres
 
 1. uno
 2. dos
